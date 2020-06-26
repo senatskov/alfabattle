@@ -26,9 +26,4 @@ curl -s -X POST \
 
 ### GET /user/{id}
 curl -s -X GET \
-  http://localhost:8080/user/1 
-  
-  
-## Complete explanation
-english: https://experto.dev/en/spring-boot-with-postgresql-and-docker-compose/   
-spanish: https://experto.dev/spring-boot-postgresql-docker-compose/   
+  http://localhost:8080/user/1   
