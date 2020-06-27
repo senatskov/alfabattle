@@ -28,7 +28,7 @@ public class MainController {
     public ResponseEntity<AnalyticResponse> getAnalyticByUser(@PathVariable("userId") String userId) {
         AnalyticResponse analyticResponse = analyticService.analyticByUser(userId);
         if (analyticResponse == null) {
-            return notFound().build();
+            throw new RuntimeException();
         }
         return ok(analyticResponse);
     }
