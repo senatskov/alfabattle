@@ -1,12 +1,4 @@
-# Spring Boot with PostgreSQL and Docker Compose Example
-
-## STEPS FOR THIS SPRING BOOT APP
-- Define dependencies in build.gradle
-- Create a Spring Boot Main @SpringBootApplication
-- Create components @Entity / @RestController / @Repository
-- Create application.properties
-- Build 
-- Check app using curls  
+# Spring Boot with Kafka and Docker Compose Example
 
 ## BUILD AND UP Docker Compose 
 docker-compose up --build   
