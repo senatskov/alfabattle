@@ -17,7 +17,7 @@
     <properties>
         <java.version>11</java.version>
         <spring-boot.version>2.2.5.RELEASE</spring-boot.version>
-        <liquibase.version>3.6.3</liquibase.version>
+        <liquibase.version>4.8.0</liquibase.version>
         <modelmapper.version>2.3.7</modelmapper.version>
         <junit.jupiter.version>5.6.2</junit.jupiter.version>
         <postgresql.version>42.2.8</postgresql.version>
