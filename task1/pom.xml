@@ -20,7 +20,7 @@
         <liquibase.version>3.6.3</liquibase.version>
         <modelmapper.version>2.3.7</modelmapper.version>
         <junit.jupiter.version>5.6.2</junit.jupiter.version>
-        <postgresql.version>42.2.8</postgresql.version>
+        <postgresql.version>42.4.1</postgresql.version>
     </properties>
 
     <dependencies>
